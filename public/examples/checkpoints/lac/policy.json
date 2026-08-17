@@ -1,0 +1,5 @@
+{
+  "lac": true,
+  "onnx": { "path": "/examples/checkpoints/lac/policy.onnx" },
+  "presets_path": "/examples/checkpoints/lac/presets.json"
+}
